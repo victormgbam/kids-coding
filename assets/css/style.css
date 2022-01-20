@@ -54,14 +54,21 @@ h1, h2 {
     border-bottom: 1px solid #3a3a3a;
 }
 
-/* kids-image */
+
+/* kids-image and cover text */
+
+#cover-text, #cover-text h2 {
+     color: #fff;
+}
 
 #kids-image-outer {
     height: 600px;
     width: 100%;
     overflow: hidden;
+    
+    position: relative;
 }
-
+  /* kids-image */
 #kids-image {
     height: 600px;
     width: 100%;
@@ -82,4 +89,24 @@ h1, h2 {
     to{
        transform: scale(1.1);
     }
+}
+
+#cover-text {
+    font-size: 130%;
+    font-family: oswald, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+
+    height: 300px;
+    width: 200px;
+
+    padding-top: 40px;
+    padding-left: 10px;
+
+    background-color: rgb(241, 109, 107 .7);
+
+    bottom: 30px;
+    right: 150px;
+
+    position: absolute;
 }
