@@ -56,8 +56,30 @@ h1, h2 {
 
 /* kids-image */
 
+#kids-image-outer {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+}
+
 #kids-image {
     height: 600px;
     width: 100%;
     background: url('../images/kids-image.jpeg') no-repeat center center;
+
+    /* annimate zoom effect on loading image */
+    animation-name: kids-image-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+}
+
+/* Applying some level of zoom to kids-image */
+
+@keyframes kids-image-zoom {
+    from{
+       transform: scale(1);
+    }
+    to{
+       transform: scale(1.1);
+    }
 }
