@@ -53,11 +53,3 @@ h1, h2 {
 .active {
     border-bottom: 1px solid #3a3a3a;
 }
-
-/* kids-image */
-
-#kids-image {
-    height: 600px;
-    width: 100%;
-    background: url('../images/kids-image.jpeg') no-repeat center center;
-}
