@@ -181,3 +181,11 @@ hr {
     height: 100%;
     border-radius: 50%;
 }
+
+#contact {
+    background-image: url('../images/kids3-image.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 100%;
+    overflow: hidden;
+}
