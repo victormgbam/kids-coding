@@ -182,20 +182,16 @@ hr {
     border-radius: 50%;
 }
 
-#contact {
+#code-times {
     background-image: url('../images/kids3-image.jpg');
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: 100%;
+    background-position: center;
+    width: 100%;
     overflow: hidden;
 }
 
-#contact {
-    color: #fafafa;
-    background-color: rgba(0, 0, 0, .6);
-    margin-bottom: 60px;
-    
-}
+
 
 
 
