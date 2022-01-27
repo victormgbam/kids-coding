@@ -230,18 +230,42 @@ footer {
 }
 
 #contact {
-    clear: both;
+    margin-bottom: 50px;
     
 }
 
-.container-box {
-    width: 60%;
+.contact-boxes-container {
+    width: 100%;
     margin: 0 auto;
-    padding: 10px;
-    text-align: center;
     
 }
 
+.contact-box-left {
+    width: 25%;
+    margin-top: -20px;
+    float: left;
+}
+
+.contact-box-right {
+    width: 25%;
+    text-align: right;
+    margin-top: -20px;
+    float: right;
+}
+
+.contact-box-center {
+    width: 50%;
+    height: 50%;
+    margin: 0 auto;
+}
+
+th, td {
+    border-bottom: 1px solid black;
+}
+
+.text-center {
+    text-align: center;
+}
 
 
 
