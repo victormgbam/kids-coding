@@ -340,8 +340,17 @@ th, td {
         text-align: center;
         padding: 0 20px;
     }
+
+    }
+
     
+    /* For small screen sizes 800px and down */
+
+    @media screen and (max-width: 800px) {
+        #contact {
+        width: 100%;
+        clear: both;
+        height: 150px;
+        padding: 0;
+    }
 }
-
-
-
