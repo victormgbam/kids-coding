@@ -13,6 +13,8 @@ Kids coding website also show the contact page and register form.
 
 ![desktop1](assets/readme-images/desktop-image.png "DESKTOP VIEW 1")
 
+![destop2](assets/readme-images/desktop2-image.png "DESKTOP VIEW 2")
+
 
 
 
