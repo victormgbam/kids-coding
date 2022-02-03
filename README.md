@@ -11,7 +11,7 @@ kids coding website, the languages kids coding offers, benifits of kids learnig 
 age of their children life's, and also see all the days of each coding classes on offer and time duration.
 Kids coding website also show the contact page and register form.
 
-![desktop1](assets/readme-images/desktop-image.png)
+![desktop1](assets/readme-images/desktop-image.png "DESKTOP VIEW 1")
 
 
 
