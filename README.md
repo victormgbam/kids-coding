@@ -27,6 +27,13 @@ Kids coding website also show the contact page and register form.
 ![smart1](assets/readme-images/smart1-image.png "SMART PHONE VIEW")
 
 
+<h1>Features</h1>
+ 
+   <h2>Navigation</h2>
+      <ul>
+       <li>At the top of the page shows the kids logo name at the left and the navigation on the right</li>
+      </ul>
+
 
 
 
