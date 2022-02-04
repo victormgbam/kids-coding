@@ -37,9 +37,18 @@ Kids coding website also show the contact page and register form.
        <li>The navigation indicates to the user what page name thereby making it easier to navigate through the page links</li>
       </ul>
 
-    <hr>
+    
 
 ![header](assets/readme-images/navigation1-image.png "HEADER")      
+
+<h2>The Header</h2>
+    <ul>
+      <li>The header shows the name of the website-kids coding and navigation links and font family of oswald, sans-serif.</li>
+      <li>The section shows the important of learning coding, the age group of kids from 12 to 16yrs.</li>
+      <li>The section also gives information about the coding language provided and what kids coding website is all about.</li>
+    </ul>
+
+![desktop](assets/readme-images/desktop2-image.png)
 
 
 
