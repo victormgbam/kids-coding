@@ -37,6 +37,8 @@ Kids coding website also show the contact page and register form.
        <li>The navigation indicates to the user what page name thereby making it easier to navigate through the page links</li>
       </ul>
 
+    <hr>
+
 ![header](assets/readme-images/navigation1-image.png "HEADER")      
 
 
