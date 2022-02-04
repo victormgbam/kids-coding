@@ -16,6 +16,9 @@ Kids coding website also show the contact page and register form.
 ![desktop2](assets/readme-images/desktop2-image.png "DESKTOP VIEW 2")
 ![desktop3](assets/readme-images/desktop3-image.png "DESKTOP VIEW 3")
 
+<h1>Tablet View</h2>
+![tablet1](assets/readme-images/tablet1-image.png "TABLET VIEW 1")
+
 
 
 
