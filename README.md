@@ -34,8 +34,10 @@ Kids coding website also show the contact page and register form.
        <li>At the top of the page shows the kids logo name on the left and the navigation on the right</li>
        <li>The navigation links are to the right, namely Home, Contact and Register links which direct users to different sections of the same page.</li>
        <li>The logo and navigation used the font family of oswald, sans-serif. The navigation when clicked hover and undeline.</li>
-       <li>The navigation indicates to the user what page name thereby making easier to navigate through the page links</li>
+       <li>The navigation indicates to the user what page name thereby making it easier to navigate through the page links</li>
       </ul>
+
+      ![header](assets/readme-images/navigation1-image.png "HEADER")
 
 
 
