@@ -11,15 +11,20 @@ kids coding website, the languages kids coding offers, benifits of kids learnig 
 age of their children life's, and also see all the days of each coding classes on offer and time duration.
 Kids coding website also show the contact page and register form.
 
+<h1>DeskTop View</h1>
+
 ![desktop1](assets/readme-images/desktop-image.png "DESKTOP VIEW 1")
 
 ![desktop2](assets/readme-images/desktop2-image.png "DESKTOP VIEW 2")
 ![desktop3](assets/readme-images/desktop3-image.png "DESKTOP VIEW 3")
 
-<h1>Tablet View</h2>
+<h1>Tablet View</h1>
 
 ![tablet1](assets/readme-images/tablet1-image.png "TABLET VIEW 1")
 
+<h1>Smart Phone View</h1>
+
+![smart1](assets/readme-images/smart1-image.png "SMART PHONE VIEW")
 
 
 
