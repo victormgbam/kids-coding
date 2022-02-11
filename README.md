@@ -57,7 +57,7 @@ Kids coding website also show the contact page and register form.
        <li>The contact page gives information about the opening times, the address and the phone, email address of kids coding website</li>
     </ul>
 
-  ![desktopo](assets/readme-images/contact-image.png)
+  ![desktop](assets/readme-images/contact-image.png)
 
 
 
