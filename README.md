@@ -60,6 +60,16 @@ Kids coding website also show the contact page and register form.
   ![desktop](assets/readme-images/contact-image.png)
 
 
+  <h2>Register form Page</h2>
+      <ul>
+        <li>The register page has a form to collect details from parents who wants their kids to learn coding.</li>
+        <li>The register form shows different fields namely kids first name, last name and email address to be filled out by the parents.</li>
+        <li>This register form is important because it makes it easier for parents to register their kids for coding class. </li>
+      </ul>
+
+   ![destiop](assets/readme-images/register1-image.png "REGISTER")
+
+
 
 
 
