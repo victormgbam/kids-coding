@@ -50,6 +50,8 @@ Kids coding website also show the contact page and register form.
 
 ![desktop](assets/readme-images/desktop2-image.png)
 
+
+
 <h2>Contact Page</h2>
     <ul>
        <li>The contact page gives information about the opening times, the address and the phone, email address of kids coding website</li>
