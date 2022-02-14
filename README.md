@@ -85,8 +85,23 @@ Kids coding website also show the contact page and register form.
   <h3>Unsolved Bugs</h3>
    <ul>
      <li>Kids coding contact page content is not responsive in some screen devices.</li>
-     <li>The contact informations for kids coding contact page display incorrect as I expected.</li>
+     <li>The contact informations for kids coding contact page display incorrect.</li>
    </ul>  
+
+<h2>Validator Testing using W3C Validator, Official Jigsaw and Accessibility(Lighthouse)</h2>
+
+   <h3>HTML (Nu Html Checker)</h3>
+     <ul><li>No errors were returned when passing through the official W3C validator.</li></ul>
+
+  <h3>CSS</h3>
+     <ul><li>No errors were returned when passing through official(Jigsaw) CSS validator.</li></ul> 
+
+  <h3>Accessibility</h3>
+     <ul>
+      <li>The fonts, text and the colors used in kids coding website are easy to read by running through lighthouse but there are issues with accessibilty.</li>
+     </ul>   
+
+![desktop](assets/readme-images/lighthouse2-image.png "Accessibility")     
 
 
 
