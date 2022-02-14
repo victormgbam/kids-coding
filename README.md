@@ -73,7 +73,11 @@ Kids coding website also show the contact page and register form.
    <h2>Testing</h2>
       <ul>
         <li>
+          I tested this page on microsoft edge, chrome and firefox. It works in these browsers.
         </li>
+        <li>I can confirmed that the home page and register page is responsive using different screen sizes by using "Am I Responsive tool.</li>
+        <li>The navigation, header, contact and the register page text are easy to read and understand.</li>
+        <li>The register form works well. It requires entries of data in every field, will only accept format in the email field.</li>
       </ul>
 
 
