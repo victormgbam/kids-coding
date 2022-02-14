@@ -110,6 +110,15 @@ Kids coding website also show the contact page and register form.
     <li>There are issues with accessibility</li>
   </ul>
 
+<h3>Deployment</h3> 
+
+  <ul><li>Kids coding website was diployed to Github pages. The steps taken:</li>
+       <li>1.From Github, navigate to setting and click</li>
+       <li>2. From the drop down menus, select master branch</li>
+       <li>3. By selecting the master branch and adding the url is selected.</li>
+       <li>4. Allowing gitHub 10minutes to allow page unpload to be completed by github.</li>
+  </ul> 
+
 
 
 
