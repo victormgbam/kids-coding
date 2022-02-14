@@ -119,8 +119,15 @@ Kids coding website also show the contact page and register form.
        <li>4. Allowing gitHub 10minutes to allow page unpload to be completed by github.</li>
   </ul> 
 
+   Kids Coding live link: https://victormgbam.github.io/kids-coding/index.html
 
+<h2>Credits<h2>
+  
+  <h3>Contents</h3>
+    <ul><li>The code used for Kids coding website was taken from love Running project.</li></ul> 
 
+  <h3>Media</h3>  
+     <ul>The images used for Kids coding website were taken from pexels</ul>
 
 
 
