@@ -70,15 +70,23 @@ Kids coding website also show the contact page and register form.
    ![destiop](assets/readme-images/register1-image.png "REGISTER")
 
 
-   <h2>Testing</h2>
+   <h2>Manual Testing</h2>
       <ul>
         <li>
           I tested this page on microsoft edge, chrome and firefox. It works in these browsers.
         </li>
         <li>I can confirmed that the home page and register page is responsive using different screen sizes by using "Am I Responsive tool.</li>
         <li>The navigation, header, contact and the register page text are easy to read and understand.</li>
-        <li>The register form works well. It requires entries of data in every field, will only accept format in the email field.</li>
+        <li>The register form works well. It requires entries of data in every field, will only accept format in the email field and register button works.</li>
       </ul>
+
+  <h2>Bugs</h2>
+
+  <h3>Unsolved Bugs</h3>
+   <ul>
+     <li>Kids coding contact page content is not responsive in some screen devices.</li>
+     <li>The contact informations for kids coding contact page display incorrect as I expected.</li>
+   </ul>  
 
 
 
