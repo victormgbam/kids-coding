@@ -101,7 +101,14 @@ Kids coding website also show the contact page and register form.
       <li>The fonts, text and the colors used in kids coding website are easy to read by running through lighthouse but there are issues with accessibilty.</li>
      </ul>   
 
-![desktop](assets/readme-images/lighthouse2-image.png "Accessibility")     
+![desktop](assets/readme-images/lighthouse2-image.png "Accessibility")  
+
+
+<h3>Unfixed Bugs</h3>
+  <ul>
+    <li>contact page contents, open times, address and email not displaying well.</li>
+    <li>There are issues with accessibility</li>
+  </ul>
 
 
 
